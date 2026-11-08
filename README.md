@@ -10,8 +10,5 @@ Languages: Russian (native), German (C1), English (B2)
 - Project: Kompas (TripMind AI) — travel planning platform: https://travel-buddy-rus.lovable.app
 - Research profile (ORCID): https://orcid.org/0009-0002-9801-1834
 
-- 🔭 Сейчас я работаю над проектом для соло-путешественников
-- 🌱 Сейчас я изучаю ИИ-алгоритмы, его оценку и КИБЕРБЕЗОПАСНОСТЬЮ В ИИ ❤️
+- 🌱 Сейчас я изучаю ИИ-алгоритмы, его оценку и КИБЕРБЕЗОПАСНОСТЬ В ИИ ❤️
 - 👯 Ищу возможности для работы в области ИИ 
-- 🤔 Мне нужна помощь с пентестом 
-- 📫 Как со мной связаться: gorinamarincka@yahoo.com
