@@ -9,10 +9,10 @@ Stack: Python · PyTorch · scikit-learn · SQL · FastAPI · Docker · Git
 
 Languages: Russian (native), German (C1), English (B2)
 
-Currently deepening my skills in LLM evaluation. Open to part-time AI evaluation work.
+I am currently deepening my skills in the field of LLMs. I am open to part-time opportunities related to the evaluation of AI models.
 
 - Project: Kompas (TripMind AI) — travel planning platform: https://travel-buddy-rus.lovable.app
 - Research profile (ORCID): https://orcid.org/0009-0002-9801-1834
 
-- 🌱 Сейчас я изучаю ИИ-алгоритмы, его оценку и КИБЕРБЕЗОПАСНОСТЬ В ИИ ❤️
-- 👯 Ищу возможности для работы в области ИИ 
+- 🌱 I am currently studying AI algorithms, their evaluation, and CYBERSECURITY IN AI ❤️
+- 👯 I am looking for job opportunities in the field of AI
